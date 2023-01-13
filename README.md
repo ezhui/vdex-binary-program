@@ -1,2 +1,2 @@
-# vdex-program
+# vdex-program on solana
 
